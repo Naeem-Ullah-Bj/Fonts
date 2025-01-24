@@ -1,6 +1,4 @@
-<script>
-     
-     
+
      
        function triggerAnimation(button) {
     // Copy the text to clipboard
@@ -382,5 +380,3 @@ var _0x3f28=['error','success','html','<i style="" class="fa-regular fa-clone fa
   });
 
 })();
-
-  </script>
