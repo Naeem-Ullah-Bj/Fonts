@@ -1,7 +1,4 @@
 <script>
-     
-     
-     //<![CDATA[
        function triggerAnimation(button) {
     // Copy the text to clipboard
     const input = button.previousElementSibling; // Get the input field
@@ -59,8 +56,6 @@ document.querySelector(".custom-text").style.top = '75px'; // Smaller margin whe
 document.querySelector(".custom-text").style.top = '240px';
       }
     });
-    
-   // ]]>
       </script>
 
   <!-- Option 1: Bootstrap Bundle with Popper -->
