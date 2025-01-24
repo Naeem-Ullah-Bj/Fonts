@@ -1,4 +1,4 @@
-<script>
+
        function triggerAnimation(button) {
     // Copy the text to clipboard
     const input = button.previousElementSibling; // Get the input field
@@ -156,8 +156,8 @@ var _0x4b47=['map','$2$1','🕓︎','✨✩✪✫✬✭✮✯✰✦✱✲✳✴�
             }, 2000); // Changed delay to 5000ms (5 seconds)
         });
     });
-//]]>
+
 
 var _0x3f28=['error','success','html','<i style="" class="fa-regular fa-clone fa-lg"></i>','.copybutton','<i class="fa-regular fa-paste fa-lg text-success" style=""></i>','click'];(function(_0x2fb8d5,_0x3f28f3){var _0x4b6145=function(_0x4a2bae){while(--_0x4a2bae){_0x2fb8d5['push'](_0x2fb8d5['shift']());}};_0x4b6145(++_0x3f28f3);}(_0x3f28,0x12c));var _0x4b61=function(_0x2fb8d5,_0x3f28f3){_0x2fb8d5=_0x2fb8d5-0x0;var _0x4b6145=_0x3f28[_0x2fb8d5];return _0x4b6145;};$(function(){$('body')['on'](_0x4b61('0x0'),_0x4b61('0x5'),function(){$(_0x4b61('0x5'))[_0x4b61('0x3')](_0x4b61('0x4')),$(this)[_0x4b61('0x3')](_0x4b61('0x6'));});});var clipboard=new ClipboardJS(_0x4b61('0x5'));clipboard['on'](_0x4b61('0x2'),function(_0x3409c3){}),clipboard['on'](_0x4b61('0x1'),function(_0x40217b){});
 
-</script>
+
